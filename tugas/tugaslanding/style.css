@@ -1,0 +1,8 @@
+#header,#footer{
+  height: 70px;
+  background:#4C8036;
+}
+#content{
+  height: 500px;
+  background: #5A9541;
+}
